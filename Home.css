@@ -8,7 +8,7 @@
 	display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-top:70px;
+  padding-top:100px;
   width: 15%;
 }
 body{
@@ -16,13 +16,13 @@ body{
 	background-size:cover;
 	background-position: center;
 	text-align: center;
-
 }
 html	{
 	height: 100%
 }
 h1{
 	text-align: center;
+	color: white;
 }
 
 .padding-card{
@@ -31,4 +31,36 @@ h1{
 }
 h2{
 	color: #5f5f5f;
+}
+.spanabout{
+	padding-top: 20%;
+}
+
+ section {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+
+    background-image: url('https://s15.banner_test.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.four{
+	padding-top: 80px;
+	color: #3a3d3d;
+	text-align: left;
+	padding-left: 15px;
+}
+.botn{
+	margin-bottom: 20px;
+}
+.padding1{
+	padding-right: 40%;
+}
+label{
+	text-align: left;
 }
